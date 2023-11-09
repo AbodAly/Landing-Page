@@ -39,7 +39,7 @@ button,
   font-weight: bold;
 }
 
-h2 {
+.info {
   font-size: 36px;
   font-weight: bolder;
   color: #1f2937;
@@ -109,6 +109,7 @@ button {
   width: 12vh;
   padding: 10px;
   border-radius: 10px;
+  border: 1px solid #1f2937;
 }
 
 .flex-item {
@@ -147,4 +148,19 @@ main .flex-container {
 .quote-outher {
   align-self: flex-end;
   font-weight: bold;
+}
+
+.call-to-action {
+  border-radius: 5px;
+}
+
+.container.call-to-action {
+  display: flex;
+  align-items: center;
+  height: 12vh;
+  justify-content: space-around;
+}
+
+.container.call-to-action button {
+  border: 1px solid white
 }
