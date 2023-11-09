@@ -15,3 +15,7 @@ TOP Project Lading page using flexbox layout model
 - [Photo by Johannes Plenio](https://www.pexels.com/photo/winding-road-photography-1133505/)
 - [Photo by Aviv Perets](https://www.pexels.com/photo/mountain-and-sky-3274903/)
 - [Photo by Pixabay](https://www.pexels.com/photo/the-great-sphinx-262786/)
+
+# TODO
+
+- [ ] stylesheet refactor
