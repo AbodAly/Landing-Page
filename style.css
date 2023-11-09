@@ -51,14 +51,15 @@ button,
   background: #e5e7eb;
   font-size: 36px;
   font-style: italic;
-  font-weight: lighter;
+  font-weight: 300;
   color: #1f2937;
 }
+
+/* color and background  */
 
 body {
   width: 100%;
   min-height: 100vh;
-  font-family: sans-serif;
 }
 
 .container {
@@ -139,6 +140,7 @@ main .flex-container {
   padding: 60px;
   margin-bottom: 40px;
   flex-direction: column;
+  align-items: center;
 }
 
 .quote {
@@ -159,8 +161,21 @@ main .flex-container {
   align-items: center;
   height: 12vh;
   justify-content: space-around;
+  margin-bottom: 40px;
 }
 
 .container.call-to-action button {
   border: 1px solid white
+}
+
+footer {
+  height: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer a {
+  text-decoration: none;
+  color: #fff;
 }
