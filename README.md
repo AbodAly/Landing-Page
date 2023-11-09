@@ -18,4 +18,5 @@ TOP Project Lading page using flexbox layout model
 
 # TODO
 
+- [ ] remove placeholder data
 - [ ] stylesheet refactor
